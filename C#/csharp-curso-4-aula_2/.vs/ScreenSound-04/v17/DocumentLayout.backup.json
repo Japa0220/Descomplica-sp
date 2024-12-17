@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\p051537\\Downloads\\csharp-curso-4-aula_2\\csharp-curso-4-aula_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{345AEAFA-C682-4F3F-8E17-FB58F6612766}|ScreenSound-04.csproj|c:\\users\\p051537\\downloads\\csharp-curso-4-aula_2\\csharp-curso-4-aula_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{345AEAFA-C682-4F3F-8E17-FB58F6612766}|ScreenSound-04.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345AEAFA-C682-4F3F-8E17-FB58F6612766}|ScreenSound-04.csproj|c:\\users\\p051537\\downloads\\csharp-curso-4-aula_2\\csharp-curso-4-aula_2\\modelos\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{345AEAFA-C682-4F3F-8E17-FB58F6612766}|ScreenSound-04.csproj|solutionrelative:modelos\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345AEAFA-C682-4F3F-8E17-FB58F6612766}|ScreenSound-04.csproj|c:\\users\\p051537\\downloads\\csharp-curso-4-aula_2\\csharp-curso-4-aula_2\\filtros\\linqfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{345AEAFA-C682-4F3F-8E17-FB58F6612766}|ScreenSound-04.csproj|solutionrelative:filtros\\linqfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LinqFilter.cs",
+              "DocumentMoniker": "C:\\Users\\p051537\\Downloads\\csharp-curso-4-aula_2\\csharp-curso-4-aula_2\\Filtros\\LinqFilter.cs",
+              "RelativeDocumentMoniker": "Filtros\\LinqFilter.cs",
+              "ToolTip": "C:\\Users\\p051537\\Downloads\\csharp-curso-4-aula_2\\csharp-curso-4-aula_2\\Filtros\\LinqFilter.cs*",
+              "RelativeToolTip": "Filtros\\LinqFilter.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:05:41.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Musica.cs",
+              "DocumentMoniker": "C:\\Users\\p051537\\Downloads\\csharp-curso-4-aula_2\\csharp-curso-4-aula_2\\Modelos\\Musica.cs",
+              "RelativeDocumentMoniker": "Modelos\\Musica.cs",
+              "ToolTip": "C:\\Users\\p051537\\Downloads\\csharp-curso-4-aula_2\\csharp-curso-4-aula_2\\Modelos\\Musica.cs",
+              "RelativeToolTip": "Modelos\\Musica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:03:43.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\p051537\\Downloads\\csharp-curso-4-aula_2\\csharp-curso-4-aula_2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\p051537\\Downloads\\csharp-curso-4-aula_2\\csharp-curso-4-aula_2\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:03:23.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
