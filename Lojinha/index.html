@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sexy Store</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Lux Store 🔥</h1>
+        <p>Desperte seus sentidos e explore novos prazeres – sua fantasia começa aqui! 🔥😉</p>
+        <nav>
+            <ul>
+                <li><a href="#home">Início</a></li>
+                <li><a href="#products">Produtos</a></li>
+                <li><a href="#about">Sobre</a></li>
+                <li><a href="#contact">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="home" class="banner">
+        <h2>Bem-vindo ao Sexy Store</h2>
+        <p>Explore nossos produtos e descubra novas experiências.</p>
+    </section>
+    
+    <section id="products" class="products">
+        <h2>Nossos Produtos</h2>
+        <div class="product">
+            <img src="https://via.placeholder.com/150" alt="Produto 1">
+            <h3>Vibrador Luxo</h3>
+            <p>Intensifique seus momentos com tecnologia avançada.</p>
+            <button onclick="addToCart('Vibrador Luxo')">Adicionar ao Carrinho</button>
+        </div>
+        <div class="product">
+            <img src="https://via.placeholder.com/150" alt="Produto 2">
+            <h3>Gel Sensual</h3>
+            <p>Aumente o prazer com sensações inesquecíveis.</p>
+            <button onclick="addToCart('Gel Sensual')">Adicionar ao Carrinho</button>
+        </div>
+    </section>
+    
+    <section id="about" class="about">
+        <h2>Sobre Nós</h2>
+        <p>Bem-vindo à <strong>Sexy Store</strong>, sua loja especializada em prazer, bem-estar e sensualidade. Nossa missão é proporcionar experiências inesquecíveis e aprimorar sua vida íntima com produtos de alta qualidade, escolhidos com carinho para satisfazer todas as suas fantasias e desejos.</p>
+        <h3>Nossa História</h3>
+        <p>Fundada com a visão de quebrar tabus e promover o prazer sem culpa, a Sexy Store nasceu para oferecer um ambiente seguro e discreto para quem busca explorar novas sensações. Desde o início, nos comprometemos a trazer as melhores marcas do mercado, garantindo segurança, conforto e inovação em cada item.</p>
+        <h3>O Que Oferecemos</h3>
+        <ul>
+            <li>🖤 <strong>Produtos de alta qualidade</strong>: Vibradores, lubrificantes, acessórios, lingeries sensuais e muito mais.</li>
+            <li>❤️ <strong>Privacidade garantida</strong>: Seu sigilo e discrição são nossa prioridade.</li>
+            <li>🔥 <strong>Atendimento personalizado</strong>: Estamos aqui para ajudar a encontrar o produto ideal para você.</li>
+            <li>🚀 <strong>Entrega rápida e discreta</strong>: Receba seu pedido com total descrição no conforto da sua casa.</li>
+        </ul>
+        <h3>Nosso Compromisso</h3>
+        <p>Acreditamos que o prazer é essencial para o bem-estar, e nosso objetivo é tornar sua experiência ainda mais especial. Queremos empoderar pessoas a explorarem sua sexualidade de forma saudável, respeitosa e divertida.</p>
+        <p>Descubra um novo mundo de sensações com a Lux Store. Seu prazer, nossa missão! 😏🔥</p>
+    `;
+    </section>
+    
+    <section id="contact" class="contact">
+        <h2>Contato</h2>
+        <p>Entre em contato conosco para dúvidas e sugestões.</p>
+        <form>
+            <label for="name">Nome:</label>
+            <input type="text" id="name" name="name" required>
+            
+            <label for="email">E-mail:</label>
+            <input type="email" id="email" name="email" required>
+            
+            <label for="message">Mensagem:</label>
+            <textarea id="message" name="message" required></textarea>
+            
+            <button type="submit">Enviar</button>
+        </form>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Sexy Store - Seu prazer é nossa missão.</p>
+    </footer>
+    
+    <script src="script.js"></script>
+</body>
+</html>
